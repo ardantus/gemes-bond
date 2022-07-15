@@ -21,7 +21,7 @@ const AboutPage = () => {
         <strong className="font-semibold">Hammer Review</strong> is a sample
         application created with the{' '}
         <a className="underline" href="https://redwoodjs.com">
-          Redwood Framework
+          Kopet
         </a>{' '}
         to demonstrate common usage patterns and guide new adopters of the
         framework. It demonstrates many of the core Redwood concepts including:
