@@ -9,7 +9,7 @@
   port = 8910
   apiUrl = "/.redwood/functions"
   includeEnvironmentVariables = ['FILESTACK_API_KEY', 'USE_AUTHENTICATION']
-  title = "Redwood Example Blog"
+  title = "Redwood Gemes Blog"
 [api]
   port = 8911
 [browser]
